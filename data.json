@@ -1,6 +1,7 @@
 {
     "user" : {
         "fullName" : "Bonginkosi Mbatha",
+        
         "phone" : "0761696094",
         "email" : "bonginkosimbatha09@gmail.com"
     },
@@ -9,6 +10,7 @@
         "degreeName" : "Bcom Economics",
         "date" : "2020 to 2022"
     },
+
     "foreignLanguage" : {
         "language" : "English , XHOSA"
         
@@ -29,13 +31,14 @@
 
 
 
-
+    
 
     "refrence" : {
-        "fullName" : "Mr Cele ",
-        "contactNumber" : "+2745789086",
+        "fullName" : "Mr Cele",
+        "contactNumber" : "+2776544367",
         "email" : "Cele@marvenmarketingsolutiom.ac.za",
         "relationship" : "Manager"
+    
     }
 
 
