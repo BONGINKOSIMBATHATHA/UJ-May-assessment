@@ -1,38 +1,42 @@
 {
     "user" : {
-        "fullName" : "",
-        "photo" : "",
-        "phone" : "",
-        "email" : ""
+        "fullName" : "Bonginkosi Mbatha",
+        "phone" : "0761696094",
+        "email" : "bonginkosimbatha09@gmail.com"
     },
     "education" : {
-        "institutionName" : "",
-        "photo" : "",
-        "description" : ""
+        "institutionName" : "Walter Sisulu University",
+        "degreeName" : "Bcom Economics",
+        "date" : "2020 to 2022"
     },
     "foreignLanguage" : {
-        "language" : "",
-        "phrases" : [{
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
-        },
-        {
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
-        }]
+        "language" : "English , XHOSA"
+        
     },
-    "favouriteSubjects" : [
-        {
-            "name" : "",
-            "description" : ""
-        },
-        {
-            "name" : "",
-            "description" : ""
-        },
-        {
-            "name" : "",
-            "description" : ""
-        }
-    ]
+
+    "skills" : {
+        "Name" : "html ,machine learnning,  Full stack , costumer service"
+
+    },
+
+"experience" : {
+        "Company" : "Marven Marketing Solution ",
+        "postion" : " Sales agent",
+        "date" : "2022 to 2003",
+        "place": "Cape Town"
+    },
+
+
+
+
+
+
+    "refrence" : {
+        "fullName" : "Mr Cele ",
+        "contactNumber" : "+2745789086",
+        "email" : "Cele@marvenmarketingsolutiom.ac.za",
+        "relationship" : "Manager"
+    }
+
+
 }
